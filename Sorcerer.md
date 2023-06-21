@@ -87,5 +87,10 @@
 
 ## **Ice Sorcerer**:
 - Main skills: Ice Shard/ Flame Shield/ Ice Armor/ Teleport/ Frost Nova/ Deep Freeze
-- Utility skills: 
+- Utility skills:
+- Reference build:
+    - Ice shard:
+        - https://maxroll.gg/d4/planner/0m530zfr
+        - https://www.youtube.com/watch?v=-Ou5wV_XgXM&ab_channel=PlayDohBear
+    -   
 
